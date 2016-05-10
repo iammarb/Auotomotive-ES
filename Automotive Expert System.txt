@@ -1,0 +1,74 @@
+Speed
+	Engine Upgrade 	> 2 
+	Engine Add-On 	> 4
+	Exhaust 	> 2    
+	Carberator
+	Muffler		> 2
+	Transmission 	> 3
+	Air Filter	> 2
+	Rim		> 3
+	Car level	> 2
+	Chassis mod	> 2
+	Spoiler.	> 3
+
+	23
+
+Fuel Efficiency	
+	Engine Service
+	Air Filter
+	Drawbacks from other upgrade.
+
+Handling
+
+	Stabilizer
+	Tyre Types
+
+	Rim
+	Suspension - spring/absorber/control arm
+	Steering wheel
+
+Safety
+
+		Air-Bag
+
+	CarSeat
+	Chassis Holder- lockage
+	Speed lock.
+
+	Lights.
+	Types of colour. (glow in the dark)
+	Cermin blindspot.
+
+	Tinted - keras punya
+	Stabilizer
+	Lock - steering, gear, pintu.
+
+Audio
+	casual
+	acoustical
+	clubbing or bass monster
+	autoshow
+Style
+	casual
+	sporty
+	autoshow
+		-Bersih engine
+		-Wiring
+		-Lowered E
+		-RePaint / Wrap
+		-Tinted
+		-Interior make up
+		-seat change
+		-shiny / blinkblink rim
+
+Comfortability
+
+	Noise ( how to kurangkan gegaran)
+	Air-Cond - service,perfume
+	Car seat ( cover or change terus).
+	Tinted (untuk kepanasan ).
+	Seat level ( untuk driver ).
+	Steering wheel. (can tukar or just cover up)
+	Add on - cup holder, phone holder, gps navigation system.
+
+norzaidah@tmsk.uitm.edu.my
