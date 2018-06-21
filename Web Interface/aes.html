@@ -1,0 +1,213 @@
+<HTML!>
+<html>
+<head>
+ <link href="button.css" rel = "stylesheet">
+ <script src="jquery-1.12.4.min.js" type="text/javascript"></script>
+</head>
+<body>
+	<div class = "bodyContainer" id = "bodyContainer">
+<!-- level 0-->
+<div class="level0" id = "level0">
+	<center>
+			<h2> choose your car model </h2>
+			<button class = "normal" id="sedan">
+			Sedan
+			</button>
+			<button class = "normal" id="hatchback">
+			Hatchback
+			</button>
+			<button class = "normal" id="4x4">
+			4x4
+			</button>
+	 </center>
+ </div>
+ <!-- level 1 sedan and hatchback-->
+<div class="level1-sedan" id = "level1-sedan">
+	<center>
+		 <h2> choose your performance category </h2>
+		 <button class = "normal" id="handling">
+			Handling
+		 </button>
+		  <button class = "normal" id="fuel">
+			Fuel Efficiency
+		 </button> <button class = "normal" id="speed">
+			Speed
+		 </button> <button class = "normal" id="safety">
+			Safety
+		 </button> <button class = "normal" id="style">
+			Style
+		 </button>
+	 </center>
+</div> 
+ <!-- level 1 4x4-->
+<div class="level1-4x4" id = "level1-4x4">
+	<center>
+		 <h2> choose your category </h2>
+		 <button class = "normal" id="touring">
+			Touring
+		 </button>
+		 <button class = "normal" id="offroad">
+			Off Road
+		 </button>
+	 </center>
+</div> 
+<!--level 2 4x4 offroad -->
+<div class="level2-offroad" id = "level2-offroad">
+	<center>
+		 <h2> choose parts desire to upgrade </h2>
+		 <button class = "normal" id="offroad-engine">
+			Engine
+		 </button>
+		 <button class = "normal" id="offroad-susp">
+			Suspension
+		 </button>
+		 <button class = "normal" id="offroad-tyre">
+			Tyre
+		 </button>
+		 <button class = "normal" id="offroad-body">
+			Body Kit
+		 </button>
+		 <button class = "normal" id="offroad-attachment">
+			Attachment
+		 </button>
+		 
+	 </center>
+</div>
+<!--level 2 4x4 touring -->
+<div class="level2-touring" id = "level2-touring">
+	<center>
+		 <h2> choose parts desire to upgrade </h2>
+		 <button class = "normal" id="touring-nav">
+			Navigation
+		 </button>
+		 <button class = "normal" id="touring-body">
+			Body Kit
+		 </button>
+		 <button class = "normal" id="touring-tank">
+			Tank
+		 </button>
+		 <button class = "normal" id="touring-attach">
+			Attachment
+		 </button>
+		 <button class = "normal" id="touring-susp">
+			Suspension
+		 </button>
+		 
+	 </center>
+</div>
+<!-- level 2 handling -->
+<div class="level2-handling" id = "level2-handling">
+	<center>
+		 <h2> choose parts desire to upgrade </h2>
+		 <button class = "normal" id="handling-stabilizer">
+			Stabilizer
+		 </button>
+		 <button class = "normal" id="handling-steering">
+			Steering Wheel
+		 </button>
+		 <button class = "normal" id="handling-tyre">
+			Tyre
+		 </button>
+		 <button class = "normal" id="handling-suspension">
+			Suspension
+		 </button>
+		 <button class = "normal" id="handling-rim">
+			Rim
+		 </button>
+		 
+	 </center>
+</div>
+
+<div class="level2-fuel" id = "level2-fuel">
+	<center>
+		 <h2> choose parts desire to upgrade </h2>
+		 <button class = "normal" id="fuel-exhaust">
+			Exhaust
+		 </button>
+		 <button class = "normal" id="fuel-magnet">
+			Magnet
+		 </button>
+		 <button class = "normal" id="fuel-injection">
+			Injection
+		 </button>
+		 <button class = "normal" id="fuel-carburetor">
+			Carburetor
+		 </button>
+	 </center>
+</div>   
+<div class="level2-speed" id = "level2-speed">
+	<center>
+		 <h2> choose parts desire to upgrade </h2>
+		 <button class = "normal" id="spd-aero">
+			Aero Dynamic
+		 </button>
+		 <button class = "normal" id="spd-engine">
+			Engine
+		 </button>
+		 <button class = "normal" id="spd-transm">
+			Transmission
+		 </button>
+		 <button class = "normal" id="spd-exhaust">
+			Exhaust
+		 </button>
+		 <button class = "normal" id="spd-suspension">
+			Suspension
+		 </button> 
+		 <button class = "normal" id="spd-rim">
+			Rim
+		 </button> 
+	 </center>
+</div> 
+
+<div class="level2-safety" id = "level2-safety">
+	<center>
+		 <h2> choose parts desire to upgrade </h2>
+		 <button class = "normal" id="safety-carseat">
+			Carseat
+		 </button>
+		 <button class = "normal" id="safety-chassis">
+			Chassis
+		 </button>
+		 <button class = "normal" id="safety-window">
+			Window
+		 </button>
+		 <button class = "normal" id="safety-stabilizer">
+			Stabilizer
+		 </button>
+		 <button class = "normal" id="safety-lock">
+			Lock system
+		 </button>
+		 
+	 </center>
+</div> 
+<div class="level2-style" id = "level2-style">
+	<center>
+		 <h2> choose your style</h2>
+		 <button class = "normal" id="style-sporty">
+			Sporty
+		 </button>
+		 <button class = "normal" id="style-autoshow">
+			Autoshow
+		 </button>
+
+		 
+	 </center>
+</div>
+
+<div class = "answer" id = "answer"></div>
+<div class = "answer2" id = "answer2"></div>
+<div class = "answer3" id = "answer3"></div>
+<div class = "answer4" id = "answer4"></div>
+<div class = "answer5" id = "answer5"></div>
+</div>
+ <!-- JQUERY -->
+ <script src="jquery-3.0.0.js"></script>
+ <script src="jquery-3.0.0.min.js"></script>
+
+ <script src="jquery.smoothState.js"></script>
+
+<!-- kau nye code -->
+<script src="answer.js"></script>
+<script src="semua.js"></script>
+</body>
+</html>

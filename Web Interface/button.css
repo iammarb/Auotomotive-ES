@@ -1,0 +1,86 @@
+
+.normal {
+  -webkit-border-radius: 16;
+  -moz-border-radius: 16;
+  border-radius: 16px;
+  font-family: Arial;
+  color: #1D2247;
+  font-size: 20px;
+  background: #ffffff;
+  padding: 20px 20px 20px 20px;
+  border: solid #1D2247 2px;
+  text-decoration: none;
+  margin: 6px;
+}
+
+.normal:hover {
+  color: #ffffff;
+  font-size: 20px;
+  background: #1D2247;
+  padding: 20px 20px 20px 20px;
+  text-decoration: none;
+}
+
+.normal:active {
+  -webkit-border-radius: 16;
+  -moz-border-radius: 16;
+  border-radius: 16px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #34495e;
+  padding: 20px 20px 20px 20px;
+  border: solid #34495e 2px;
+  text-decoration: none;
+}
+.visited{
+  -webkit-border-radius: 16;
+  -moz-border-radius: 16;
+  border-radius: 16px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #34495e;
+  padding: 20px 20px 20px 20px;
+  border: solid #34495e 2px;
+  text-decoration: none;
+}
+.chain{
+  -webkit-border-radius: 16;
+  -moz-border-radius: 16;
+  border-radius: 16px;
+  font-family: Arial;
+  color: #1D2247;
+  font-size: 20px;
+  background: #F3D89F ;
+  padding: 20px 20px 20px 20px;
+  border: solid #F3D89F 2px;
+  text-decoration: none;
+  float:left;
+}
+.arrow{
+
+  float:left;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.chain-container{
+  width: 100%;
+  float: left;
+  margin: 0 auto;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.explainContainer{
+
+  position: relative;
+}
+.textAnswer{
+  float:left;
+  margin-top: 80px;
+  padding: 30px;
+}
+.pictureAnswer{
+  float:left;
+  padding: 20px;
+}
