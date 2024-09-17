@@ -1,0 +1,2 @@
+(deffact automotive 
+(performance engine)(performance tire))
